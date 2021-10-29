@@ -1,5 +1,5 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/lang
-%define productname kloxong-lang
+%define productname kloxokr-lang
 %define packagename it-it
 %define sourcename it-it
 %define timestamp 2013031825
@@ -7,7 +7,7 @@
 Name: %{productname}-%{packagename}
 Summary: Kloxo-MR IT-IT language
 Version: 6.5.0.f
-Release: 1.kng%{?dist}
+Release: 1.kkr%{?dist}
 License: GPL
 Group: Applications/Internet
 
